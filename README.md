@@ -195,8 +195,8 @@ please consider supporting it by:
 ---
 
 ## 📬 Contact
-**GitHub:** [RezvanPanah](https://github.com/RezvanPanah)  
-**Email:** rezvanpanah@example.com  
+**GitHub:** [Mohd R. Panah](https://github.com/rezvanp351)  
+**Email:** rezvanpanah4@example.com  
 
 ---
 
